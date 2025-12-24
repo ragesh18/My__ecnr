@@ -36,7 +36,7 @@ cd substitution-cipher
 ```
 3. Run the program:
 ```bash
-python My__ecnr.py
+python3 My__ecnr.py
 ```
 
 ## 📖 Example
